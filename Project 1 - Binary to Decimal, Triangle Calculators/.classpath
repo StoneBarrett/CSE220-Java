@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Binary to Decimal/src"/>
+	<classpathentry kind="src" path="HW1_Stone_Barrett"/>
+	<classpathentry kind="src" path="Triangle/src"/>
+	<classpathentry kind="output" path="Binary to Decimal/bin"/>
+</classpath>

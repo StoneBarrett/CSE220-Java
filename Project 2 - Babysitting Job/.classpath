@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Babysitting2/src"/>
+	<classpathentry kind="src" path="HW2_Stone_Barrett/Problem 1"/>
+	<classpathentry kind="src" path="Words2/src"/>
+	<classpathentry kind="output" path="Babysitting2/bin"/>
+</classpath>
